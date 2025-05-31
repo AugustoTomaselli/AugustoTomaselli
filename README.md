@@ -1,5 +1,5 @@
 ## Olá! Eu sou o AugustoTomaselli
-:computer: Sou desenvolvedor Front-End.
+:computer: Sou desenvolvedor Back-End.
 :house_with_garden: Moro no Brasil.
 :books: Atualmente estou aprendendo Java
 ## Tecnologias que uso
