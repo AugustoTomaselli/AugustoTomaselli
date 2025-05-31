@@ -7,11 +7,11 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seunomeusuario&layout=compact)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seunomeusuario&layout=compact&langs_count=6)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoTomaselli&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30" />
+<img src="https://media.giphy.com/media/3o7aD6Yb7L7Q1v7Xbq/giphy.gif" alt="Java GIF" width="100"/>
+
 
 
 
