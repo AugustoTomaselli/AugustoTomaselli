@@ -10,7 +10,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoTomaselli&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Java GIF" width="100" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZleGdycWNmazh1cG1wMnIxYWJucnJucm9tOGRxYnYwcTU5YTE1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programador digitando" width="150" />
+
+
+
+
+
+
+
 
 
 
