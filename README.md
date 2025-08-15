@@ -1,4 +1,4 @@
-## Olá! Eu sou o AugustoTomaselli
+## Olá! Eu sou o Augusto
 :computer: Sou desenvolvedor Back-End.
 :house_with_garden: Moro no Brasil.
 :books: Atualmente estou aprendendo Java
