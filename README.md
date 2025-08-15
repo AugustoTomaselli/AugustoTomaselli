@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Augusto
-:computer: Sou desenvolvedor Back-End.
+:computer: Sou Estudante/futil
 :house_with_garden: Moro no Brasil.
 :books: Atualmente estou aprendendo Java
 ## Tecnologias que uso
