@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Augusto
-:computer: Sou Estudante/futil
+:computer: Sou Estudante de Sistemas da informação.
 :house_with_garden: Moro no Brasil.
 :books: Atualmente estou aprendendo Java
 ## Tecnologias que uso
