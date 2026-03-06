@@ -10,7 +10,6 @@
 - ☕ **Backend:** Especializando em **Java** e **Spring Boot**.
 - 🎨 **Frontend:** Interfaces modernas com **React** e **JavaScript**.
 - 🎯 **Foco:** Código limpo e sistemas de alta performance.
-- 🏎️ **Hobbies:** Entusiasta de Games, Fórmula 1 e Heróis (Marvel/DC).
 
 ---
 
